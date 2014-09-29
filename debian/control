@@ -1,10 +1,10 @@
-Source: byte-php54-memcached
+Source: byte-php55-memcached
 Section: web
 Priority: optional
 Maintainer: Byte Internet (support@byte.nl)
-Build-Depends: debhelper (>= 7), byte-php54-dev, pkg-config, libmemcached10, libmemcached-dev
+Build-Depends: debhelper (>= 7), byte-php55-dev, pkg-config, libmemcached10, libmemcached-dev
 
-Package: byte-php54-memcached
+Package: byte-php55-memcached
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Recommends: php5
