@@ -1,0 +1,5 @@
+byte-php54-memcached (2.2.0-1byte) stable; urgency=low
+
+  * Build byte-php54 memcached module 
+
+ -- Tim Muller <tim@byte.nl>  Tue, 08 Oct 2013 13:04:33 +0000
